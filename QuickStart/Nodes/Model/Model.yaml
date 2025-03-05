@@ -1,0 +1,141 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Recipe/Recipe.yaml
+- Name: ImportAndExportTranslations
+  Type: NetLogic
+  WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Name: CSVPath
+    Type: BaseDataVariableType
+    DataType: AbsoluteResourceUri
+    Value: "file:///C:/Users/ctrubiano/OneDrive - GBE/Desktop/Optix Training/Translations/Translations.csv"
+  - Class: Method
+    Name: ExportTranslations
+  - Class: Method
+    Name: ImportTranslations
+  - Name: CharacterSeparator
+    Type: BaseDataVariableType
+    DataType: String
+    Value: ","
+  - Name: WrapFields
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: LocalizationDictionary
+    Type: NodePointer
+    DataType: NodeId
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/VariableTypes/BaseVariableType/LocalizationDictionary"
+  - Name: ns=15;LibraryReference
+    Type: ObjectLibraryReference
+    DataType: ObjectLibraryReferenceDataType
+    Value: 
+     {
+      "TypeId": {
+       "Id": 72,
+       "Namespace": 15
+      },
+      "Body": {
+       "libraryGuid": "f0701375ee41467993d632db6a8fdaa5",
+       "objectGuid": "e7cab90d0ab7e8b5b02218e38bca9a0e",
+       "objectVersion": 1,
+       "highestIgnoredVersion": 0
+      }
+     }
+- Name: Motor1Alarm
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Distance
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
+  Children:
+  - Name: ns=0;EngineeringUnits
+    Type: EUInformationType
+    DataType: EUInformation
+    DisplayName: {"NamespaceIndex":0,"TextId":"EngineeringUnitsDisplayName"}
+    Children:
+    - Name: UnitId
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 5459273
+    - Name: DisplayName
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+    - Name: Description
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+- Name: Temperature
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 32
+  Children:
+  - Name: ns=0;EngineeringUnits
+    Type: EUInformationType
+    DataType: EUInformation
+    DisplayName: {"NamespaceIndex":0,"TextId":"EngineeringUnitsDisplayName"}
+    Children:
+    - Name: UnitId
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 4604232
+    - Name: DisplayName
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+    - Name: Description
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+- Name: Pressure
+  Type: BaseDataVariableType
+  DataType: Int32
+  Children:
+  - Name: ns=0;EngineeringUnits
+    Type: EUInformationType
+    DataType: EUInformation
+    DisplayName: {"NamespaceIndex":0,"TextId":"EngineeringUnitsDisplayName"}
+    Children:
+    - Name: UnitId
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 4342098
+    - Name: DisplayName
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+    - Name: Description
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+- File: Types/Types.yaml
+- Name: MyMotor1
+  Id: g=bdfc03d535bb8d579a8610801f158976
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+  - Name: Accell
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 15
+- Name: MyMotor2
+  Id: g=3429ca913e0bc90c7c5f7788952ea231
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+- Name: MyMotor3
+  Id: g=9ba573fefb1fd1bdd54dbd88073d86de
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32

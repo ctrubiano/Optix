@@ -1,0 +1,24 @@
+Name: Recipe
+Id: g=9eb95feade4dfa2283f2aa1d350eddfb
+Type: FolderType
+Children:
+- Name: Ingredient01
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Ingredient02
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Ingredient03
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: String1
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 1.2000000476837158
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Float
