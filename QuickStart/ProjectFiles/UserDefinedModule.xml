@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>QuickStartUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="78efe10d73183333c970a4f809f9b738" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="ffa48578848bb51f8d39a53ffd438b70" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="01a7e8933afd7c95fe894b0859308138" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="1bdd3cc0f30a479baefa3fa9717a431c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="bdfc03d535bb8d579a8610801f158976" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="2fd2130298d44f239cea5d5904ff2ce9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="fdaa24e0443843b4b1c02f60a174773d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="3429ca913e0bc90c7c5f7788952ea231" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="9ba573fefb1fd1bdd54dbd88073d86de" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="a952f637f5ff4b9f1073c1d19967d260" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="5708f69376d33df4e0d30b5b426240ea" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="db0f413434861dc94cdd132d3c8d1b65" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="faa8467e1c652568c96d27674dcc58c4" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="638838acd9f5ae93ca75b058c300b43b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="f7693488f23341ce8f24714cb90408c5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="54c4cba826f951041ee99091e79d70e5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="d671d666a8ca2ad90e7ebf5c51473a44" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="8a54bc68188848aff84464ab0751ae0f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="28f16afff82338810547dd61fc95769b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="b0094dfe3bfcf07dce851bd34521e192" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="c54f3bf5c3c655257e76b1f31e3539dc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="71944797019156ac6f2d9bcb7509aae3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="1b4354710ba3f226e9f87f6951ec57a3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="9aaadafc11e5c12598e7dae746869267" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="00d32dd772e813f83f3182476937e904" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="84caa83043f827eb8a921795285d3f12" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="63dce43893097456174cce27e28ffbba" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="f9b9a066b25d6e00babb624e0fd7ff76" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="97b44aaed356c9708e27fbb3b1c712d8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="19f187248252e5f1cd2e621c2103e789" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="0f2105fe40c6a59fc216cdea247290ef" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="7be5074fe9f41b7c7913ee74ae735e24" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="bd22e79781d0a934a9f0c9cada04a0a7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="35042c23412f60ae4796f1b8e0e01e9e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="91f59585f3d1d2373d25244e902c17fd" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="af0fd6155d9bd2c2631e81172080a141" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="5bd1738d3f60d47ba30b9df411fa0050" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="d0fba00ff93f064d6e1cb546eea27209" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="fd52139656c4cab63738095f771343a3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="d312f5365c7d886a7a689a7c61bf2412" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="937bdaeca748212659105fb563595c0b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="68099af806a871bc69c6e167f51f9755" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="59f233a86b88133bc07cecf82da51463" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="2b2b282c2deda3501e7c7235524e4184" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="76c6b9dc24666b9297ce397d3fb2b9fe" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="b6239b77b31bba48a937ee481e521c37" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="53b1bd1b17b4de66926108a7dfdf143e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="3f82bccdaed6e6d0e5ea3ad4f62f3dcf" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="6bed537526ced5c34661fb747f54118d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="77ada910589d4f7047f7f3a93804f4a9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="97c39b6db0cb36282b065ab26ae59462" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="fb0ad292c72860140f3c5833e3c0fa3a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="4c907028ffc81a6db8b76be2097ace8f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="f0f12af62d3f44e042e68c83a8005b15" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="58a444eaa2857cf709bd07f229d3313d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="ce814fddddd607c776a3b9a6e0b90c27" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="fc0d46c3cf6fc6f7faace8fa13bde2b5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="QuickStart" guid="2eebfd3def044e747aa57952fc13c70d" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

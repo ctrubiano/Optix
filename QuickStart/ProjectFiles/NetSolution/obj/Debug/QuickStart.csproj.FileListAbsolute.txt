@@ -1,0 +1,12 @@
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\bin\QuickStart.deps.json
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\bin\QuickStart.dll
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\bin\QuickStart.pdb
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.csproj.AssemblyReference.cache
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.AssemblyInfoInputs.cache
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.AssemblyInfo.cs
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.dll
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\refint\QuickStart.dll
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\QuickStart.pdb
+C:\Users\ctrubiano\OneDrive - GBE\Documents\Rockwell Automation\FactoryTalk Optix\Projects\QuickStart\ProjectFiles\NetSolution\obj\Debug\ref\QuickStart.dll
